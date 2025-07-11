@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=APstarts&label=👁️)
-[![Twitter](https://img.shields.io/twitter/follow/sandeep15d?label=Follow)](https://twitter.com/intent/follow?screen_name=sandeep15d)
-[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/APstarts/)](https://www.linkedin.com/in/APstarts/)
+[![Twitter](https://img.shields.io/twitter/follow/ca_anurag_pal?label=Follow)](https://twitter.com/intent/follow?screen_name=sandeep15d)
+[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuragpal27/)](https://www.linkedin.com/in/anuragpal27/)
 
 
 <a href="https://github.com/APstarts">
